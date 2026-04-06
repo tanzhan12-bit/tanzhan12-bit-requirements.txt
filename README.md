@@ -1,1 +1,3 @@
-# tanzhan12-bit-requirements.txt
+streamlit
+pandas
+plotly
